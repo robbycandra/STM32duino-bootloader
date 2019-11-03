@@ -96,6 +96,9 @@ Note. upload to 0x8005000 was retained for backwards compatibility.
 
 If you have questions about the bootloader please raise and issue and I will attempt to answer them.
 
+#####Compile the code
+
+Please Read HOW_TO_COMPILE.MD
 
 
 
