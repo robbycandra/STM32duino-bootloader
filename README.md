@@ -96,9 +96,10 @@ Note. upload to 0x8005000 was retained for backwards compatibility.
 
 If you have questions about the bootloader please raise and issue and I will attempt to answer them.
 
-#####Compile the code
+# Compile the code
 
-Please Read HOW_TO_COMPILE.MD
+Please [Read HOW_TO_COMPILE.MD](https://github.com/robbycandra/STM32duino-bootloader/blob/develop/HOW_TO_COMPILE.md) 
+from [Tamojit Saha](https://github.com/TamojitSaha)
 
 
 
